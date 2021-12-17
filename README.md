@@ -9,6 +9,6 @@ This makes sure that your website ranks up higher on search engines reaching out
 Create a flawless platform to share your contents and impress anyone who lands on the site only with Fansee Blog.
 
 ### PREVIEW
-![Fansee Blog] ()
+![fanseeblog-ss](https://user-images.githubusercontent.com/64481312/146499815-c40075b7-f26c-425e-b9ce-f0e31a7d6717.png)
 
 [Click here for Documentation] ()
